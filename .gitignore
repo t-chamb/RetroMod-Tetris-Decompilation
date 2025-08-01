@@ -4,3 +4,22 @@ test/build
 test/disassembly
 test/test.gb
 tmp/
+
+# ROM files
+Tetris*.gbc
+Tetris*.gb
+*.gbc
+*.gb
+
+# Symbol files  
+*.sym
+*.sym.bak
+!test/*.sym
+
+# Emulator files
+bdms*
+*.zip
+
+# Backup directories
+disassembly_old/
+*_old/
