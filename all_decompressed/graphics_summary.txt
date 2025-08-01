@@ -1,0 +1,115 @@
+ModRetro Tetris Compressed Graphics Summary
+============================================================
+
+Total compressed blocks found: 88
+Total decompressed size: 1688087 bytes
+Total tiles: 105474
+
+Graphics by Bank:
+----------------------------------------
+
+Bank $00:
+  $15CA:  96 tiles,  1543 bytes decompressed
+  $15DE:  96 tiles,  1545 bytes decompressed
+  $15F2:  96 tiles,  1536 bytes decompressed
+  $1606:  96 tiles,  1550 bytes decompressed
+  $3223:  64 tiles,  1024 bytes decompressed
+  $3277:  48 tiles,   776 bytes decompressed
+  $329F:  48 tiles,   768 bytes decompressed
+
+Bank $02:
+  $401A: 1440 tiles, 23045 bytes decompressed
+  $4026: 1440 tiles, 23044 bytes decompressed
+  $4032: 1440 tiles, 23051 bytes decompressed
+  $424E: 1440 tiles, 23044 bytes decompressed
+  $4254: 1440 tiles, 23055 bytes decompressed
+  $4260: 1440 tiles, 23046 bytes decompressed
+  $4266: 1441 tiles, 23057 bytes decompressed
+  $426C: 1440 tiles, 23040 bytes decompressed
+  $427E: 1440 tiles, 23042 bytes decompressed
+  $4284: 1440 tiles, 23050 bytes decompressed
+  $429C: 1440 tiles, 23045 bytes decompressed
+  $42AE: 1440 tiles, 23047 bytes decompressed
+  $42B4: 1440 tiles, 23048 bytes decompressed
+  $42CC: 1440 tiles, 23040 bytes decompressed
+  $42DE: 1440 tiles, 23042 bytes decompressed
+  $42E4: 1440 tiles, 23053 bytes decompressed
+  $42F0: 1440 tiles, 23044 bytes decompressed
+  $4548: 1440 tiles, 23043 bytes decompressed
+  $454E: 1441 tiles, 23056 bytes decompressed
+  $4554: 1440 tiles, 23040 bytes decompressed
+  $455A: 1440 tiles, 23045 bytes decompressed
+  $4560: 1440 tiles, 23040 bytes decompressed
+  $456C: 1440 tiles, 23044 bytes decompressed
+  $4578: 1440 tiles, 23044 bytes decompressed
+  $457E: 1440 tiles, 23046 bytes decompressed
+  $4584: 1440 tiles, 23044 bytes decompressed
+  $458A: 1440 tiles, 23046 bytes decompressed
+  $4590: 1440 tiles, 23048 bytes decompressed
+  $45A8: 1440 tiles, 23048 bytes decompressed
+  $45C0: 1440 tiles, 23052 bytes decompressed
+  $45D8: 1441 tiles, 23056 bytes decompressed
+  $45F0: 1441 tiles, 23056 bytes decompressed
+  $46FE: 1440 tiles, 23055 bytes decompressed
+  $4F5F: 1440 tiles, 23044 bytes decompressed
+  $5536: 1440 tiles, 23048 bytes decompressed
+  $5572: 1440 tiles, 23052 bytes decompressed
+  $5716: 1440 tiles, 23051 bytes decompressed
+  $572E: 1440 tiles, 23048 bytes decompressed
+  $5746: 1440 tiles, 23045 bytes decompressed
+  $575E: 1440 tiles, 23041 bytes decompressed
+  $5A16: 1440 tiles, 23048 bytes decompressed
+  $5A2E: 1440 tiles, 23045 bytes decompressed
+  $5A46: 1440 tiles, 23048 bytes decompressed
+  $5A76: 1440 tiles, 23053 bytes decompressed
+  $5A8E: 1441 tiles, 23056 bytes decompressed
+  $5AA6: 1440 tiles, 23046 bytes decompressed
+  $5ABE: 1440 tiles, 23043 bytes decompressed
+  $5ACA: 1440 tiles, 23050 bytes decompressed
+  $5AD6: 1440 tiles, 23046 bytes decompressed
+  $5AFA: 1440 tiles, 23050 bytes decompressed
+  $5B1E: 1440 tiles, 23054 bytes decompressed
+  $5B42: 1440 tiles, 23040 bytes decompressed
+  $5B66: 1440 tiles, 23040 bytes decompressed
+  $5B7E: 1440 tiles, 23052 bytes decompressed
+  $669A: 1440 tiles, 23044 bytes decompressed
+  $66A6: 1440 tiles, 23043 bytes decompressed
+  $66CA: 1440 tiles, 23055 bytes decompressed
+  $66FA: 1440 tiles, 23049 bytes decompressed
+  $6706: 1440 tiles, 23043 bytes decompressed
+  $6BAA: 1441 tiles, 23056 bytes decompressed
+  $6BDA: 1440 tiles, 23048 bytes decompressed
+  $6BE6: 1440 tiles, 23048 bytes decompressed
+  $6C0A: 1440 tiles, 23053 bytes decompressed
+  $6C3A: 1440 tiles, 23040 bytes decompressed
+  $6C46: 1440 tiles, 23053 bytes decompressed
+  $6C6A: 1440 tiles, 23040 bytes decompressed
+  $6C70: 1440 tiles, 23054 bytes decompressed
+  $6C76: 1440 tiles, 23051 bytes decompressed
+
+Bank $03:
+  $78F0: 272 tiles,  4357 bytes decompressed
+  $7DC5: 3854 tiles, 61669 bytes decompressed
+  $7DE2: 240 tiles,  3845 bytes decompressed
+  $7E3E: 113 tiles,  1809 bytes decompressed
+  $7E5A: 112 tiles,  1795 bytes decompressed
+
+Bank $04:
+  $5D81: 145 tiles,  2327 bytes decompressed
+
+Bank $06:
+  $6163:  48 tiles,   769 bytes decompressed
+
+Bank $07:
+  $6414: 385 tiles,  6161 bytes decompressed
+  $727D: 289 tiles,  4630 bytes decompressed
+
+Bank $08:
+  $5D86: 273 tiles,  4369 bytes decompressed
+
+Bank $0B:
+  $4575: 904 tiles, 14466 bytes decompressed
+  $67DC: 257 tiles,  4113 bytes decompressed
+
+Bank $0E:
+  $5F09: 112 tiles,  1802 bytes decompressed
